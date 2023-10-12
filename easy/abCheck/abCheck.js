@@ -12,5 +12,4 @@ const abCheck = (str) => {
     return false;
 }
 
-console.log(abCheck('lane borrowed'));
 module.exports = abCheck;
