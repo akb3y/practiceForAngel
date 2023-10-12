@@ -23,7 +23,7 @@ In the example.test.js file, change the const at the top of the file to require 
 npm test
 ```
 
-### test specific prblem
+### test specific problem
 
 ```
 npm test example/example.test.js
