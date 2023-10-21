@@ -12,6 +12,4 @@ const palindrome = (str) => {
     return false;
 }
 
-console.log(palindrome("Madam, I'm Adam"))
-
 module.exports = palindrome;

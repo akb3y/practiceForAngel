@@ -18,5 +18,4 @@ const AP = (num) => {
     return recurse(num)
 }
 
-console.log(AP(7777777))
 module.exports = AP;
